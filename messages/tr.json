@@ -1,0 +1,10 @@
+{
+  "Header": {
+    "home": "AnaSayfa",
+    "about": "Hakkımızda",
+    "contact": "İletişim"
+  },
+  "Search": {
+    "buttonText": "Düğme:p"
+  }
+}
