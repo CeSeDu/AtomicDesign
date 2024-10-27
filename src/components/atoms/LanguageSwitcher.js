@@ -6,7 +6,7 @@ function LanguageSwitcher({onChange, currentLocale}) {
         onChange(event.target.value);
     }
   return (
-    <select value={currentLocale} onChange={(e) => onChange(e.target.value)} className='border rounded-lg p-1'>
+    <select value={currentLocale} onChange={(e) => onChange(e.target.value)} className='border rounded-lg p-1 text-xs'>
         {
             languages.map((lang) => (
                 <option key={lang} value={lang}>

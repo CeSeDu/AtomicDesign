@@ -22,14 +22,20 @@ const Header = () => {
 
   return (
     <header className='flex justify-between items-center p-2 rounded-lg bg-gray-800'>
+      <nav className='flex justify-between gap-12 w-full items-center'>
       <Logo />
-      <nav className='flex gap-12'>
+        <div className='flex gap-12'>
         <NavLink label={t('home')} href="/" />
         <NavLink label={t('about')} href="/about" />
         <NavLink label={t('contact')} href="/contact" />
-      </nav>
-      <Form />
+        </div>
+        <div className='flex items-center'>
+        <Form />
       <LanguageSwitcher currentLocale={locale} onChange={handleLanguageChange} />
+      </div>
+      </nav>
+
+
     </header>
   );
 };

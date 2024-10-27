@@ -1,0 +1,147 @@
+[
+    {
+      "id": 1,
+      "title": {
+        "en": "The Importance of Learning",
+        "tr": "Öğrenmenin Önemi"
+      },
+      "content": {
+        "en": "In today's world, continuous learning is essential.",
+        "tr": "Günümüz dünyasında sürekli öğrenme şarttır."
+      },
+      "image": "https://via.placeholder.com/400x200?text=Öğrenmenin+Önemi"
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Understanding JavaScript",
+        "tr": "JavaScript'i Anlamak"
+      },
+      "content": {
+        "en": "JavaScript is a versatile language used in web development.",
+        "tr": "JavaScript, web geliştirmede kullanılan çok yönlü bir dildir."
+      },
+      "image": "https://via.placeholder.com/400x200?text=JavaScript'i+Anlamak"
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "The Benefits of Reading",
+        "tr": "Okumanın Faydaları"
+      },
+      "content": {
+        "en": "Reading enhances knowledge and improves concentration.",
+        "tr": "Okuma, bilgiyi artırır ve konsantrasyonu geliştirir."
+      },
+      "image": "https://via.placeholder.com/400x200?text=Okumanın+Faydaları"
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "Embracing Technology",
+        "tr": "Teknolojiyi Kucaklamak"
+      },
+      "content": {
+        "en": "Technology is reshaping our lives in many ways.",
+        "tr": "Teknoloji, hayatımızı birçok açıdan yeniden şekillendiriyor."
+      },
+      "image": "https://via.placeholder.com/400x200?text=Teknolojiyi+Kucaklamak"
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "The Art of Communication",
+        "tr": "İletişim Sanatı"
+      },
+      "content": {
+        "en": "Effective communication is key in personal and professional life.",
+        "tr": "Etkili iletişim, kişisel ve profesyonel yaşamda anahtardır."
+      },
+      "image": "https://via.placeholder.com/400x200?text=İletişim+Sanatı"
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "Introduction to Python",
+        "tr": "Python'a Giriş"
+      },
+      "content": {
+        "en": "Python is a popular programming language known for its simplicity.",
+        "tr": "Python, sadeliği ile bilinen popüler bir programlama dilidir."
+      },
+      "image": "https://via.placeholder.com/400x200?text=Python'a+Giriş"
+    },
+    {
+      "id": 7,
+      "title": {
+        "en": "The Future of Artificial Intelligence",
+        "tr": "Yapay Zekanın Geleceği"
+      },
+      "content": {
+        "en": "AI is transforming industries and creating new opportunities.",
+        "tr": "Yapay zeka, endüstrileri dönüştürüyor ve yeni fırsatlar yaratıyor."
+      },
+      "image": "https://via.placeholder.com/400x200?text=Yapay+Zekanın+Geleceği"
+    },
+    {
+      "id": 8,
+      "title": {
+        "en": "Building Resilience",
+        "tr": "Dayanıklılığı Geliştirmek"
+      },
+      "content": {
+        "en": "Resilience helps us cope with challenges effectively.",
+        "tr": "Dayanıklılık, zorluklarla etkili bir şekilde başa çıkmamıza yardımcı olur."
+      },
+      "image": "https://via.placeholder.com/400x200?text=Dayanıklılığı+Geliştirmek"
+    },
+    {
+      "id": 9,
+      "title": {
+        "en": "The Importance of Networking",
+        "tr": "Ağ Kurmanın Önemi"
+      },
+      "content": {
+        "en": "Networking opens doors to new opportunities.",
+        "tr": "Ağ kurma, yeni fırsatların kapılarını açar."
+      },
+      "image": "https://via.placeholder.com/400x200?text=Ağ+Kurmanın+Önemi"
+    },
+    {
+      "id": 10,
+      "title": {
+        "en": "Time Management Techniques",
+        "tr": "Zaman Yönetimi Teknikleri"
+      },
+      "content": {
+        "en": "Managing time effectively is crucial for success.",
+        "tr": "Zamanı etkili bir şekilde yönetmek, başarı için kritik öneme sahiptir."
+      },
+      "image": "https://via.placeholder.com/400x200?text=Zaman+Yönetimi+Teknikleri"
+    },
+    {
+      "id": 11,
+      "title": {
+        "en": "Healthy Living Tips",
+        "tr": "Sağlıklı Yaşam İpuçları"
+      },
+      "content": {
+        "en": "Adopting a healthy lifestyle contributes to overall well-being.",
+        "tr": "Sağlıklı bir yaşam tarzı benimsemek, genel iyi oluşa katkıda bulunur."
+      },
+      "image": "https://via.placeholder.com/400x200?text=Sağlıklı+Yaşam+İpuçları"
+    },
+    {
+      "id": 12,
+      "title": {
+        "en": "The Power of Positive Thinking",
+        "tr": "Olumlu Düşünmenin Gücü"
+      },
+      "content": {
+        "en": "Positive thinking can lead to better outcomes in life.",
+        "tr": "Olumlu düşünme, hayatta daha iyi sonuçlar elde etmemizi sağlayabilir."
+      },
+      "image": "https://via.placeholder.com/400x200?text=Olumlu+Düşünmenin+Gücü"
+    }
+  ]
+  
