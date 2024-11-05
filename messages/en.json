@@ -6,6 +6,13 @@
     },
     "Search": {
       "buttonText": "Button"
+    },
+    "Footer": {
+      "companyName": "Company Name",
+      "copyright": "All rights reserved.",
+      "about": "About Us",
+      "contact": "Contact",
+      "privacyPolicy": "Privacy Policy"
     }
   }
 

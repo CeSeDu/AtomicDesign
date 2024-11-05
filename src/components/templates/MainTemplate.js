@@ -1,5 +1,6 @@
 import React from 'react'
 import Header from '../organisms/Header'
+import Footer from '../organisms/Footer'
 import ArticleList from '../molecules/articleList'
 
 const MainTemplate = ({children}) => {
@@ -7,6 +8,7 @@ const MainTemplate = ({children}) => {
     <div className='p-8'>
         <Header/>
         <ArticleList/>
+        <Footer/>
         <main>{children}</main>
     </div>
   )
