@@ -25,7 +25,7 @@ const Header = () => {
       <nav className='flex justify-between gap-12 w-full items-center'>
       <Logo />
         <div className='flex gap-12'>
-        <NavLink label={t('home')} href="/" />
+        <NavLink label={t('homePage')} href="/" />
         <NavLink label={t('about')} href="/about" />
         <NavLink label={t('contact')} href="/contact" />
         </div>

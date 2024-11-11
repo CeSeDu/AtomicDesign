@@ -1,5 +1,6 @@
 {
   "Header": {
+    "HomePage": "Ana Sayfa",
     "home": "AnaSayfa",
     "about": "Hakkımızda",
     "contact": "İletişim"
@@ -13,6 +14,8 @@
     "about": "Hakkımızda",
     "contact": "İletişim",
     "privacyPolicy": "Gizlilik Politikası"
+  },
+  "Posts": {
+    "title": "Gönderiler"
   }
-  
 }

@@ -1,5 +1,6 @@
 {
     "Header": {
+      "homePage": "Home Page",
       "home": "Home",
       "about": "About",
       "contact": "Contact"
@@ -13,6 +14,15 @@
       "about": "About Us",
       "contact": "Contact",
       "privacyPolicy": "Privacy Policy"
+    },
+    "Posts": {
+      "title": "Posts"
+    },
+    "HomePage": {
+      "title": "Ana Sayfa"
+    },
+    "ArticleList": {
+      "title": "Makale Listesi"
     }
   }
 
